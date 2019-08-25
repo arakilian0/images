@@ -1,6 +1,6 @@
 # images
 
-**Publicly accessable images for repo documentation**
+**Publicly accessable images for repo documentation.**
 
 ## License
 MIT License
